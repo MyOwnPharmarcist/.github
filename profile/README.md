@@ -1,12 +1,16 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 💊 나만의 약사
+## 📝 프로젝트 소개
+우리는 살아가면서 약에 대한 정보를 정확하게 모르기 때문에<br> 이것에 대해서 정확한 정보를 전달 해주고 다양한 편리한 기능을 만들고자 합니다.<br><br>집에 구비되어 있는 상비약의 설명서가 없을 때, 현재 복용하고 있는 약의 정보에 대해서 알고 싶을 때<br> 의약품의 이름 혹은 제품 형태만 알 수 있는 의약품을 **'나만의 약사'** 앱을 통하여 검색할 수 있습니다.<br><br>복잡한 의약품 정보를 비교적 간단하게 확인하고, 효능효과 및 용법 용량을 확인할 수 있는 앱을 개발하였습니다.
+## 👥 팀원 소개
+| 이름 | 역할 | Githun |
+|:----|:---------|:--------|
+|이예진||https://github.com/KorYejinLee|
+|문재웅||https://github.com/vpdlzmtm|
+|박인호||https://github.com/innoo47|
+|심성민||https://github.com/seocheu|
+|최현우||https://github.com/chwdoit|
+## 📅 개발 기간
+## ⚙️ 주요 기능
+## ✨ 동작 화면
+## 🔨 백엔드 기술 스택
+## ✒️ UML
