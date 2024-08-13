@@ -10,6 +10,7 @@
 |심성민||https://github.com/seocheu|
 |최현우||https://github.com/chwdoit|
 ## 📅 개발 기간
+2024.08.05. ~ 2024.09.05.
 ## ⚙️ 주요 기능
 ## ✨ 동작 화면
 ## 🔨 백엔드 기술 스택
