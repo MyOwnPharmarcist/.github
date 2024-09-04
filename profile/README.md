@@ -4,11 +4,11 @@
 ## 👥 팀원 소개
 | 이름 | 역할 | Github |
 |:----|:---------|:--------|
-|이예진||https://github.com/KorYejinLee|
-|문재웅||https://github.com/vpdlzmtm|
-|박인호||https://github.com/innoo47|
-|심성민||https://github.com/seocheu|
-|최현우||https://github.com/chwdoit|
+|이예진|데이터 전처리|https://github.com/KorYejinLee|
+|문재웅|앱 개발, 디자인|https://github.com/vpdlzmtm|
+|박인호|앱 개발, 디자인|https://github.com/innoo47|
+|심성민|QA, DB 구축|https://github.com/seocheu|
+|최현우|앱 개발, DB 관리|https://github.com/chwdoit|
 ## 📅 개발 기간
 2024.08.05. ~ 2024.09.05.
 ## 🚀 Skills
