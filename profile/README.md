@@ -40,7 +40,7 @@
 ## ✨ 동작 화면
 | 약국 검색 | 알약 검색 | 복용 알리미 |
 |:----|:---------|:--------|
-|![image](https://github.com/user-attachments/assets/42b44740-0d93-44d5-adbe-fa05dbfdcabd)|![image](https://github.com/user-attachments/assets/a40cf169-5220-41b7-8bbb-73597664deed)|![image](https://github.com/user-attachments/assets/fb2fe045-298a-428a-8b73-5ee014832293)|
+|![image](https://github.com/user-attachments/assets/3d2663fe-306f-47a3-9fea-85d63e0e0981)|![image](https://github.com/user-attachments/assets/0e1dc1dd-f9d5-4613-a1e7-68c8d487c746)|![image](https://github.com/user-attachments/assets/47ead45e-f3af-4aca-b286-e3b1d2c35fb4)|
 
 ## 🔎 참고
 * 지도 API
