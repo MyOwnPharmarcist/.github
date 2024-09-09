@@ -3,6 +3,7 @@
 # 💊 나만의 약사
 ## 📝 프로젝트 소개
 우리는 살아가면서 약에 대한 정보를 정확하게 모르기 때문에<br> 이것에 대해서 정확한 정보를 전달 해주고 다양한 편리한 기능을 만들고자 합니다.<br><br>집에 구비되어 있는 상비약의 설명서가 없을 때, 현재 복용하고 있는 약의 정보에 대해서 알고 싶을 때<br> 의약품의 이름 혹은 제품 형태만 알 수 있는 의약품을 **'나만의 약사'** 앱을 통하여 검색할 수 있습니다.<br><br>복잡한 의약품 정보를 비교적 간단하게 확인하고, 효능효과 및 용법 용량을 확인할 수 있는 앱을 개발하였습니다.
+
 ## 👥 팀원 소개
 | 이름 | 역할 | Github |
 |:----|:---------|:--------|
@@ -11,10 +12,13 @@
 |박인호|앱 개발, 디자인|https://github.com/innoo47|
 |심성민|QA, DB 구축|https://github.com/seocheu|
 |최현우|앱 개발, DB 관리|https://github.com/chwdoit|
+
 ## 📅 개발 기간
 2024.08.05. ~ 2024.09.05.
+
 ## 🚀 Skills
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 ## ⚙️ 주요 기능
 #### 약국, 상비의약품 파는곳 맵 좌표 기능
 - 약국, 상비의약품 파는 곳의 위치를 네이버 맵에 핀을 적용시켜 실시간으로 볼 수 있게 해줌.
