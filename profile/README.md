@@ -33,18 +33,17 @@
 - 타이머가 동작 중이면 일시정지할 수 있고, 멈춘 타이머를 다시 시작할 수 있음.
 - 타이머가 0초가 되면 타이머가 종료되었다는 창이 뜨게 되고 진동과 기본 안드로이드 알람 소리가 울림.
 
+## ✨ 동작 화면
+| 약국 검색 | 알약 검색 | 복용 알리미 |
+|:----|:---------|:--------|
+|![image](https://github.com/user-attachments/assets/3d2663fe-306f-47a3-9fea-85d63e0e0981)|![image](https://github.com/user-attachments/assets/0e1dc1dd-f9d5-4613-a1e7-68c8d487c746)|![image](https://github.com/user-attachments/assets/47ead45e-f3af-4aca-b286-e3b1d2c35fb4)|
+
 ## ✒️ UML
 * DB Class Diagram
 ![image](https://github.com/user-attachments/assets/8fedbd6a-8539-46a1-aaa5-0913ae91ff1c)
 
 * Main Function FlowChart
 ![image](https://github.com/user-attachments/assets/92a5488c-9fe5-46f2-b7a1-ef4f28225e0e)
-
-
-## ✨ 동작 화면
-| 약국 검색 | 알약 검색 | 복용 알리미 |
-|:----|:---------|:--------|
-|![image](https://github.com/user-attachments/assets/3d2663fe-306f-47a3-9fea-85d63e0e0981)|![image](https://github.com/user-attachments/assets/0e1dc1dd-f9d5-4613-a1e7-68c8d487c746)|![image](https://github.com/user-attachments/assets/47ead45e-f3af-4aca-b286-e3b1d2c35fb4)|
 
 ## 🔎 참고
 * 지도 API
