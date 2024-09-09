@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86c75522-b4c7-4e75-b6c6-84215875e390)
+![image](https://github.com/user-attachments/assets/2fd22953-03f2-4edb-9907-f74125684261)
 
 # 💊 나만의 약사
 ## 📝 프로젝트 소개
